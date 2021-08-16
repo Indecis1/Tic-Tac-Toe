@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="menu_icons">
+        <file alias="openFolder.png">img/icons8-dossier-ouvert-30.png</file>
+        <file alias="save.png">img/icons8-sauvegarder-30.png</file>
+        <file alias="undo.png">img/icons8-annuler-30.png</file>
+        <file alias="rules.png">img/icons8-livre-30.png</file>
+        <file alias="about.png">img/icons8-aide-30.png</file>
+    </qresource>
+</RCC>
